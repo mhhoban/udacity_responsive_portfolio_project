@@ -1,7 +1,9 @@
 .logo img {
+
     width: 100%;
     height: auto;
     background: white;
+    
 }
 
 .logo {
@@ -9,6 +11,8 @@
     margin-left: 3%;
     float: left;
     background: white;
+
+
 }
 
 .logo-text {
@@ -27,10 +31,10 @@ a {
 
 hr {
     color: #66ff66;
-    height: 10px;
+    height: 11px;
     background-color: #66ff66;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 0;
+    margin-bottom: -2px;
 }
 
 .marquee {
@@ -56,7 +60,7 @@ hr {
 }
 
 .featured-image {
-    margin-left: -5%;
+    margin-left: 0%;
     margin-right: 3%;
     height: 20%;
 }
