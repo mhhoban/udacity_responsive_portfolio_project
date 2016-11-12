@@ -1,27 +1,28 @@
+
 .logo img {
 	
 	width: 100%;
 	height: auto;
+	background: white;
 
 }
 
 .logo {
-	max-width: 200px;
 	margin-top: 3%;
 	margin-left: 3%;
 	float: left;
+	background: white;
 }
 
 .logo-text{
 	float: right;
-	float: bottom;
 	margin-right: 3%;
+	background: white;
 
 }
 
 .logo-text h3{
 	margin-top: 70px;
-	float: bottom;
 }
 
 hr {
@@ -60,6 +61,7 @@ hr {
 
 .featured-work p {
 	color: green;
+	margin-left: 5%;
 }
 
 .featured-image {

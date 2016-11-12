@@ -1,0 +1,79 @@
+.logo img {
+	
+	width: 100%;
+	height: auto;
+
+}
+
+.logo {
+	margin-top: 3%;
+	float: left;
+}
+
+.logo-text{
+	float: right;
+	float: bottom;
+	margin-right: 3%;
+
+}
+
+.logo .col-md-1{
+	width: 0px;
+}
+
+.logo-text h3{
+	margin-top: 70px;
+	float: bottom;
+}
+
+
+
+hr {
+	color: #66ff66;
+	height: 10px;
+	background-color: #66ff66;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+
+.marquee {
+	background: black;
+
+}
+
+
+
+.marquee img {
+	height: auto;
+	width: 100%;
+
+}
+
+.featured-work {
+
+	background: black;
+
+}
+
+.featured-work h3 {
+	color: green;
+}
+
+.featured-work p {
+	color: green;
+}
+
+.featured-image {
+	margin-left: -5%;
+	margin-right: 3%;
+	height: 20%;
+
+}
+
+.featured-image img {
+	width: 50%;
+	height: 50%;
+
+}
