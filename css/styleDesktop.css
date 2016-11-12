@@ -58,10 +58,14 @@ hr {
 	color: green;
 }
 
-.featured-image {
+.featured-work p {
+	color: green;
+}
 
+.featured-image {
 	margin-left: -5%;
 	margin-right: 3%;
+	height: 20%;
 
 }
 
