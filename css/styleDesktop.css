@@ -25,40 +25,43 @@
 }
 
 hr {
-	color: black;
-	height: 4px;
-	background-color: black;
+	color: #66ff66;
+	height: 10px;
+	background-color: #66ff66;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
-.obligatory-dividing-line {
-	margin-top: -20px;
-	margin-left: 3%;
-	margin-right: 3%;
+
+
+.marquee {
+	background: black;
+	
 
 }
 
-.marquee .row .col-md-12 {
-	height: 400px;
-	margin-left: 3%;
-	margin-right: 3%;
-}
+
 
 .marquee img {
-	height: 100%;
-	width: auto;
-	margin-left: 100px; 
+	height: auto;
+	width: 100%;
 
 }
 
 .featured-work {
-	margin-left: 3%;
-	margin-right: 3%;
+
+	background: black;
+
+}
+
+.featured-work h3 {
+	color: green;
 }
 
 .featured-image {
 
-	width: 300px;
-	height: 300px;
+	margin-left: -5%;
+	margin-right: 3%;
 
 }
 
